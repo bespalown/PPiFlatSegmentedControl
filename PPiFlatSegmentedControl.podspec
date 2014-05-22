@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.summary = 'Flat UISegmentedControl for flat designs.'
   s.homepage = 'https://github.com/bespalown/PPiFlatSegmentedControl'
   s.author = { 'Pedro Piñera' => 'pepibumur@gmail.com' }
-  s.source = { :git => 'https://github.com/bespalown/PPiFlatSegmentedControl.git', :tag => '1.3.4' }
+  s.source = { :git => 'https://github.com/bespalown/PPiFlatSegmentedControl.git', :branch => 'master' }
 
   s.description = <<-DESC
 
